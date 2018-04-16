@@ -1,4 +1,4 @@
-﻿# wechat-weapp-Game-TNFB
+# wechatAnswer-v1.0 
 一款基于wafer2方案的实时在线答题微信小程序游戏
 
 ##技术栈：
